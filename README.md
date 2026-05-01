@@ -1,5 +1,5 @@
 ### Retrieval Augmented Generation
-This repository covers the programming basics of RAG. It is split into 5 modules:
+This repository covers the basics of RAG. It is split into 5 modules:
 - Module 1: RAG Overview
   - Build a RAG system, by writing functions to augment the prompt with relevant retrieved documents and generating system and user dicts to pass into an LLM.
 - Module 2: Information Retrieval and Search Foundation
